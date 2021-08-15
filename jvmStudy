@@ -1,0 +1,10 @@
+1.Arthas使用
+Arthas是一款阿里开源的Java诊断工具，方便开发者进行问题的定位和诊断。
+curl -O https://arthas.aliyun.com/arthas-boot.jarjava -jar arthas-boot.jar
+
+启动Arthas：
+java -jar arthas-boot.jar
+
+
+
+
