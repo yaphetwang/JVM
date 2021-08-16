@@ -6,5 +6,7 @@ curl -O https://arthas.aliyun.com/arthas-boot.jarjava -jar arthas-boot.jar
 java -jar arthas-boot.jar
 
 
+thread -n 3 -i 1000"查看当前"最忙"（耗CPU）的三个线程
+
 
 
